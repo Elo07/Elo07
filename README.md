@@ -40,7 +40,7 @@ When I’m not coding, I enjoy exploring Apple technologies, learning new framew
 - **[Web App with User Authentication (Node.js, Express, PostgreSQL)](https://github.com/Elo07/User-Auth-App)**  
   Full-stack authentication app with secure password hashing and session management.
 
-- **[Applai – AI Job Application Assistant (Python, FastAPI, Next.js)](https://github.com/Elo07/applai)**  
+- **[Fitforge – AI Job Application Assistant (Python, FastAPI, Next.js)](https://github.com/Elo07/fitforge)**  
   AI-powered tool that analyzes job postings, scores resume fit, generates cover letters, and produces ATS-optimized resume rewrites.
 
 ---
